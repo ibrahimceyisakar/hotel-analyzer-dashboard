@@ -304,7 +304,7 @@ def main():
     
     # Sidebar controls
     st.sidebar.header("Dashboard Controls")
-    top_n = st.sidebar.slider("Number of Top Hotels", 5, 100, 10, 5)
+    top_n = st.sidebar.slider("Number of Top Hotels", 5, 100, 100, 5)
     
     # Load data
     df = load_and_process_data('top_value_hotels.json', top_n)
