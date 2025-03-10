@@ -299,8 +299,8 @@ def main():
     )
     
     # Header
-    st.title("Hotel Value Analysis Dashboard")
-    st.markdown("Interactive analysis of top value hotels")
+    st.title("Istanbul Hotel Value Analysis Report")
+    st.markdown("+3000 hotels in Istanbul, Turkey analyzed with their daily prices, review scores, and features. This report includes top 100 hotels by value ratio.")
     
     # Sidebar controls
     st.sidebar.header("Dashboard Controls")
