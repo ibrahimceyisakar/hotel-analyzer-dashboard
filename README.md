@@ -1,6 +1,6 @@
-# Hotel Analyzer Dashboard
+# Hotel Finder Dashboard
 
-A Streamlit-based interactive dashboard for analyzing and visualizing hotel data in Istanbul, Turkey. This dashboard is part of the [Hotel Finder](https://github.com/ibrahimceyisakar/hotel-finder/) project, which scrapes hotel data from obilet.com, analyzes it for value metrics, and visualizes the results.
+A Streamlit-based interactive dashboard for analyzing and visualizing hotel data in Istanbul, Turkey. This dashboard is part of the [Hotel Finder](https://github.com/ibrahimceyisakar/hotel-finder/) project, which scrapes hotel data from obilet.com, analyzes it for value metrics, and visualizes the results. 
 
 ## Features
 
